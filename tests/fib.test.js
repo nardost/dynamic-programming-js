@@ -1,4 +1,4 @@
-const { fib, dynamicFib } = require( '../src/utils/fib');
+const { fib, dynamicFib } = require( '../src/utils/fibonacci');
 const { gridTraveler } = require('../src/utils/grid');
 
 describe('Fibonacci numbers with dynamic programming', () => {
